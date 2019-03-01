@@ -1,6 +1,6 @@
 class Person:
     name = []
-
+#comment to see if git works!!
     def set_name(self, user_name):
         self.name.append(user_name)
         return len(self.name) - 1
