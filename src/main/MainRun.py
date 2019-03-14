@@ -3,7 +3,7 @@ Created on 1 mars 2019
 
 @author: nioannou
 '''
-import sys
+import sy
 print(sys.version)
 
 from model.Person import Person
