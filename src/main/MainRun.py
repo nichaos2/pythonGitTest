@@ -3,6 +3,8 @@ Created on 1 mars 2019
 
 @author: nioannou
 '''
+import sys
+print(sys.version)
 
 from model.Person import Person
 if __name__ == '__main__':
